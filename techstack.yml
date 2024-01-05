@@ -1,7 +1,8 @@
 repo_name: kalwabed/sipaling-react
 report_id: ecdc795dad36c607bcd205018fc4837a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T13:06:11+00:00'
+timestamp: '2024-01-05T08:54:22+00:00'
 requested_by: kalwabed
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kalwabed/sipaling-react
   detection_source: Repo Metadata
